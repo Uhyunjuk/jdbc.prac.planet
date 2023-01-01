@@ -1,4 +1,4 @@
-# Java Jbdc Project
+# Java Jc Project
 ## Planet🌏
 
 ## :computer: 주제
