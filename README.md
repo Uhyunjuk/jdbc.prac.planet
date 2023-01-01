@@ -16,20 +16,26 @@
 
 
 ### - 메인화면 
+![image](https://user-images.githubusercontent.com/119032872/210187933-a6f948ce-6ac2-4885-bde1-8612bf73847d.png)
+
 
     
 ### - 행성 목록 전체 조회하기
+![image](https://user-images.githubusercontent.com/119032872/210187913-99b9eec9-56af-40c3-beca-298da123bda4.png)
 
 
 ### - 행성 이름으로 조회해보기
 
 
-### - 
+### - 행성에 대한 설명 듣기
 
 
-### - 
+### - 나만의 행성 추가하기
 
 
-### - 
+### - 행성 삭제하기
+
+
+### - 프로그램 종료
 
 
