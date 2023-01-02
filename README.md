@@ -25,15 +25,19 @@
 
 
 ### - 행성 이름으로 조회해보기
+![image](https://user-images.githubusercontent.com/119032872/210187950-e36ce4d2-f2d6-4ad1-8915-21e1ef4c6a0b.png)
 
 
 ### - 행성에 대한 설명 듣기
+![image](https://user-images.githubusercontent.com/119032872/210187958-b0e21fba-4a9b-47b6-ab60-92972c379876.png)
 
 
 ### - 나만의 행성 추가하기
+![image](https://user-images.githubusercontent.com/119032872/210187967-a8404487-1284-4ac2-a08f-c7b1a60338f9.png)
 
 
 ### - 행성 삭제하기
+![image](https://user-images.githubusercontent.com/119032872/210187971-9655065a-bbde-4bc1-a9ab-c7674fd2d89a.png)
 
 
 ### - 프로그램 종료
